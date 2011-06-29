@@ -4,6 +4,6 @@ namespace Projeto.Desacoplamento
 {
     public class RickRolld
     {
-        //You was Rick Rolld :D
+        //You were Rick Rolld :D
     }
 }
